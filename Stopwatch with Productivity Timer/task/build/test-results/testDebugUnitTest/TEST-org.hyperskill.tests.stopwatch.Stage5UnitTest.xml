@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.hyperskill.tests.stopwatch.Stage5UnitTest" tests="8" skipped="0" failures="0" errors="0" timestamp="2025-09-13T14:29:01" hostname="Mac" time="0.4">
+  <properties/>
+  <testcase name="test01_CheckPermissionRequestedOnStart" classname="org.hyperskill.tests.stopwatch.Stage5UnitTest" time="0.038"/>
+  <testcase name="test02_CheckCountdownTimerRunningOnPermissionGranted" classname="org.hyperskill.tests.stopwatch.Stage5UnitTest" time="0.027"/>
+  <testcase name="test03_CheckCountdownTimerNotRunningOnPermissionDenied" classname="org.hyperskill.tests.stopwatch.Stage5UnitTest" time="0.026"/>
+  <testcase name="test04_CheckNotificationIsNotSentBeforeTimeLimit" classname="org.hyperskill.tests.stopwatch.Stage5UnitTest" time="0.063"/>
+  <testcase name="test05_CheckNotificationIsNotSentWithTimeLimitSetToZero" classname="org.hyperskill.tests.stopwatch.Stage5UnitTest" time="0.081"/>
+  <testcase name="test06_CheckNotificationIsNotSentWithTimeLimitSetToNegative" classname="org.hyperskill.tests.stopwatch.Stage5UnitTest" time="0.062"/>
+  <testcase name="test07_CheckNotificationIsNotSentClickingResetBeforeTimeExceeded" classname="org.hyperskill.tests.stopwatch.Stage5UnitTest" time="0.046"/>
+  <testcase name="test08_CheckNotificationIsSentOnTimeLimitExceeded" classname="org.hyperskill.tests.stopwatch.Stage5UnitTest" time="0.057"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

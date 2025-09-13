@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.hyperskill.tests.stopwatch.Stage3UnitTest" tests="6" skipped="0" failures="0" errors="0" timestamp="2025-09-13T14:29:00" hostname="Mac" time="0.206">
+  <properties/>
+  <testcase name="checkProgressBarInvisibilityOnReset" classname="org.hyperskill.tests.stopwatch.Stage3UnitTest" time="0.037"/>
+  <testcase name="checkProgressBarInvisibilityOnInit" classname="org.hyperskill.tests.stopwatch.Stage3UnitTest" time="0.036"/>
+  <testcase name="checkProgressBarVisibilityOnStart" classname="org.hyperskill.tests.stopwatch.Stage3UnitTest" time="0.039"/>
+  <testcase name="checkMultipleClicks" classname="org.hyperskill.tests.stopwatch.Stage3UnitTest" time="0.028"/>
+  <testcase name="checkProgressBarExists" classname="org.hyperskill.tests.stopwatch.Stage3UnitTest" time="0.028"/>
+  <testcase name="checkProgressBarColorEachSecond" classname="org.hyperskill.tests.stopwatch.Stage3UnitTest" time="0.038"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
