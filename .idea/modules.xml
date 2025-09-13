@@ -2,12 +2,12 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Stopwatch_with_Productivity_Timer.iml" filepath="$PROJECT_DIR$/.idea/modules/Stopwatch_with_Productivity_Timer.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Stopwatch with Productivity Timer/task/Stopwatch_with_Productivity_Timer.Stopwatch_with_Productivity_Timer-task.iml" filepath="$PROJECT_DIR$/.idea/modules/Stopwatch with Productivity Timer/task/Stopwatch_with_Productivity_Timer.Stopwatch_with_Productivity_Timer-task.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Stopwatch with Productivity Timer/task/Stopwatch_with_Productivity_Timer.Stopwatch_with_Productivity_Timer-task.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/Stopwatch with Productivity Timer/task/Stopwatch_with_Productivity_Timer.Stopwatch_with_Productivity_Timer-task.androidTest.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Stopwatch with Productivity Timer/task/Stopwatch_with_Productivity_Timer.Stopwatch_with_Productivity_Timer-task.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Stopwatch with Productivity Timer/task/Stopwatch_with_Productivity_Timer.Stopwatch_with_Productivity_Timer-task.main.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Stopwatch with Productivity Timer/task/Stopwatch_with_Productivity_Timer.Stopwatch_with_Productivity_Timer-task.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/Stopwatch with Productivity Timer/task/Stopwatch_with_Productivity_Timer.Stopwatch_with_Productivity_Timer-task.unitTest.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/Stopwatch_with_Productivity_Timer.util.iml" filepath="$PROJECT_DIR$/.idea/modules/util/Stopwatch_with_Productivity_Timer.util.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/KotlinXMLStopwatch.iml" filepath="$PROJECT_DIR$/.idea/modules/KotlinXMLStopwatch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Stopwatch with Productivity Timer/task/KotlinXMLStopwatch.Stopwatch_with_Productivity_Timer-task.iml" filepath="$PROJECT_DIR$/.idea/modules/Stopwatch with Productivity Timer/task/KotlinXMLStopwatch.Stopwatch_with_Productivity_Timer-task.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Stopwatch with Productivity Timer/task/KotlinXMLStopwatch.Stopwatch_with_Productivity_Timer-task.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/Stopwatch with Productivity Timer/task/KotlinXMLStopwatch.Stopwatch_with_Productivity_Timer-task.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Stopwatch with Productivity Timer/task/KotlinXMLStopwatch.Stopwatch_with_Productivity_Timer-task.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Stopwatch with Productivity Timer/task/KotlinXMLStopwatch.Stopwatch_with_Productivity_Timer-task.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Stopwatch with Productivity Timer/task/KotlinXMLStopwatch.Stopwatch_with_Productivity_Timer-task.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/Stopwatch with Productivity Timer/task/KotlinXMLStopwatch.Stopwatch_with_Productivity_Timer-task.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/KotlinXMLStopwatch.util.iml" filepath="$PROJECT_DIR$/.idea/modules/util/KotlinXMLStopwatch.util.iml" />
     </modules>
   </component>
 </project>
