@@ -48,7 +48,7 @@ files:
   - name: src/test/java/org/hyperskill/tests/stopwatch/Stage3UnitTest.kt
     visible: false
     learner_created: false
-feedback_link: https://hyperskill.org/projects/72/stages/396/implement#comment
+feedback_link: https://hyperskill.org/learn/step/27388#comment
 status: Solved
 feedback:
   message: Congratulations!

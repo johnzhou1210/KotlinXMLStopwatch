@@ -57,7 +57,7 @@ files:
   - name: src/main/res/layout/dialog_upper_limit.xml
     visible: true
     learner_created: true
-feedback_link: https://hyperskill.org/projects/72/stages/398/implement#comment
+feedback_link: https://hyperskill.org/learn/step/27390#comment
 status: Solved
 feedback:
   message: Well done! You've finished the project. Select a new project on <a href="https://hyperskill.org/projects">Hyperskill</a>
