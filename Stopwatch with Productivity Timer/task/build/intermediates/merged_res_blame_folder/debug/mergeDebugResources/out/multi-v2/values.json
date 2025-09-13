@@ -4,20 +4,20 @@
             "outputFile": "org.hyperskill.stopwatch.Stopwatch_with_Productivity_Timer-task-mergeDebugResources-30:/values/values.xml",
             "map": [
                 {
-                    "source": "/Users/johnzhou/code/android/Stopwatch with Productivity Timer/Stopwatch with Productivity Timer/task/src/main/res/values/strings.xml",
+                    "source": "/Users/johnzhou/code/android/KotlinXMLStopwatch/Stopwatch with Productivity Timer/task/src/main/res/values/colors.xml",
                     "from": {
-                        "startLines": "1",
-                        "startColumns": "4",
-                        "startOffsets": "16",
-                        "endColumns": "70",
-                        "endOffsets": "82"
+                        "startLines": "4,2,3",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "153,55,102",
+                        "endColumns": "45,46,50",
+                        "endOffsets": "194,97,148"
                     },
                     "to": {
-                        "startLines": "1892",
-                        "startColumns": "4",
-                        "startOffsets": "126956",
-                        "endColumns": "70",
-                        "endOffsets": "127022"
+                        "startLines": "578,579,580",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "30380,30426,30473",
+                        "endColumns": "45,46,50",
+                        "endOffsets": "30421,30468,30519"
                     }
                 },
                 {
@@ -92,23 +92,6 @@
                         "startOffsets": "116607,116647,117779,118003,118058,119554,119608,119660,119709,119770",
                         "endColumns": "39,46,42,54,46,53,51,48,60,49",
                         "endOffsets": "116642,116689,117817,118053,118100,119603,119655,119704,119765,119815"
-                    }
-                },
-                {
-                    "source": "/Users/johnzhou/code/android/Stopwatch with Productivity Timer/Stopwatch with Productivity Timer/task/src/main/res/values/colors.xml",
-                    "from": {
-                        "startLines": "4,2,3",
-                        "startColumns": "4,4,4",
-                        "startOffsets": "153,55,102",
-                        "endColumns": "45,46,50",
-                        "endOffsets": "194,97,148"
-                    },
-                    "to": {
-                        "startLines": "578,579,580",
-                        "startColumns": "4,4,4",
-                        "startOffsets": "30380,30426,30473",
-                        "endColumns": "45,46,50",
-                        "endOffsets": "30421,30468,30519"
                     }
                 },
                 {
@@ -260,24 +243,7 @@
                     }
                 },
                 {
-                    "source": "/Users/johnzhou/.gradle/caches/8.11.1/transforms/6a2d7fecb096e5d7ec4a3e0ca1cbe894/transformed/jetified-startup-runtime-1.1.1/res/values/values.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endColumns": "82",
-                        "endOffsets": "133"
-                    },
-                    "to": {
-                        "startLines": "1891",
-                        "startColumns": "4",
-                        "startOffsets": "126873",
-                        "endColumns": "82",
-                        "endOffsets": "126951"
-                    }
-                },
-                {
-                    "source": "/Users/johnzhou/code/android/Stopwatch with Productivity Timer/Stopwatch with Productivity Timer/task/src/main/res/values/styles.xml",
+                    "source": "/Users/johnzhou/code/android/KotlinXMLStopwatch/Stopwatch with Productivity Timer/task/src/main/res/values/styles.xml",
                     "from": {
                         "startLines": "3",
                         "startColumns": "4",
@@ -293,6 +259,40 @@
                         "endLines": "2072",
                         "endColumns": "12",
                         "endOffsets": "149583"
+                    }
+                },
+                {
+                    "source": "/Users/johnzhou/code/android/KotlinXMLStopwatch/Stopwatch with Productivity Timer/task/src/main/res/values/strings.xml",
+                    "from": {
+                        "startLines": "1",
+                        "startColumns": "4",
+                        "startOffsets": "16",
+                        "endColumns": "70",
+                        "endOffsets": "82"
+                    },
+                    "to": {
+                        "startLines": "1892",
+                        "startColumns": "4",
+                        "startOffsets": "126956",
+                        "endColumns": "70",
+                        "endOffsets": "127022"
+                    }
+                },
+                {
+                    "source": "/Users/johnzhou/.gradle/caches/8.11.1/transforms/6a2d7fecb096e5d7ec4a3e0ca1cbe894/transformed/jetified-startup-runtime-1.1.1/res/values/values.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "82",
+                        "endOffsets": "133"
+                    },
+                    "to": {
+                        "startLines": "1891",
+                        "startColumns": "4",
+                        "startOffsets": "126873",
+                        "endColumns": "82",
+                        "endOffsets": "126951"
                     }
                 },
                 {
